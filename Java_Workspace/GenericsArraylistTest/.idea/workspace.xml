@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="aadceb2b-c60c-465e-8600-1e959b3e6416" name="Default Changelist" comment="" />
+    <list default="true" id="aadceb2b-c60c-465e-8600-1e959b3e6416" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayListTest2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExamTEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ExceptionTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../FileIOTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IOtest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritanceTest2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InheritenceTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PolymorphismTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayListTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayListTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ArrayTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ArrayTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIOTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIOTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIOTest/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIOTest/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOtest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/src/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/src/WebClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../새 텍스트 문서.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,12 +43,13 @@
     <session id="304807609">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
+          <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.20" value="1" />
           <entry key="project.open.time.21" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.4" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -54,20 +85,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Bank.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
-              <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
+            <state relative-caret-position="493">
+              <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Account.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+            <state relative-caret-position="119">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
                 <element signature="e#72#73#0" expanded="true" />
                 <element signature="e#104#105#0" expanded="true" />
@@ -84,6 +115,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -106,11 +140,13 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -127,7 +163,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -179,11 +214,12 @@
       <workItem from="1544174885665" duration="1969000" />
       <workItem from="1544422504578" duration="100000" />
       <workItem from="1544422792265" duration="478000" />
+      <workItem from="1544692009818" duration="1879000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8257000" />
+    <option name="totallyTimeSpent" value="10136000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -198,7 +234,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18743287" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -214,7 +250,7 @@
       <window_info anchor="bottom" id="TODO" order="6" weight="0.329718" />
       <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.329718" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32960895" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -272,21 +308,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="29" column="21" selection-start-line="29" selection-start-column="21" selection-end-line="29" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Account.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
           <folding>
             <element signature="e#72#73#0" expanded="true" />
             <element signature="e#104#105#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Bank.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="53" selection-start-line="30" selection-start-column="53" selection-end-line="30" selection-end-column="53" />
         </state>
       </provider>
     </entry>

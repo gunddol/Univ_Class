@@ -16,7 +16,7 @@ public class WebClient {
         s = client.getWebContentByGet(s1,"iso-8859-1",5000);
         System.out.println(s);
 
-        System.out.printf("Andswer number : ");
+        System.out.printf("Answer number : ");
         String ans = scan.nextLine();
         String s2 = "2015008904/" + ans;
         s1 = s1.replace("index.html","picResult");
@@ -57,11 +57,11 @@ public class WebClient {
         HttpURLConnection conn = (HttpURLConnection) url.openConnection();
         conn.setRequestMethod("GET");
 
-        conn.setRequestProperty("User-Agent",
-                "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)");
-
 //        conn.setRequestProperty("User-Agent",
-//                "2015008904/SonGunHee/WEBCLIENT/COMPUTERNETWORK");
+//                "Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 5.2; Trident/4.0; .NET CLR 1.1.4322; .NET CLR 2.0.50727)");
+
+        conn.setRequestProperty("User-Agent",
+                "2015008904/SonGunHee/WEBCLIENT/COMPUTERNETWORK");
 
         conn.setRequestProperty("Accept", "text/html");
         conn.setConnectTimeout(timeout);

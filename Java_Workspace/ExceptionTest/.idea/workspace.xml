@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="442913ec-371f-47dd-9839-ec969c74863b" name="Default Changelist" comment="" />
+    <list default="true" id="442913ec-371f-47dd-9839-ec969c74863b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamTEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/src/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/src/WebClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../새 텍스트 문서.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +27,11 @@
     <session id="-31599274">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.opened" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -46,8 +61,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Program.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="736">
-              <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+            <state relative-caret-position="374">
+              <caret line="28" column="54" lean-forward="true" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
             </state>
           </provider>
         </entry>
@@ -60,6 +75,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -79,11 +97,13 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -96,7 +116,6 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -145,17 +164,18 @@
       <updated>1542269324301</updated>
       <workItem from="1542269328922" duration="2844000" />
       <workItem from="1542355918050" duration="75000" />
+      <workItem from="1544690643731" duration="174000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2919000" />
+    <option name="totallyTimeSpent" value="3093000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20682302" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20998926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -194,8 +214,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/Program.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="736">
-          <caret line="50" column="5" selection-start-line="50" selection-start-column="5" selection-end-line="50" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="28" column="54" lean-forward="true" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="54" />
         </state>
       </provider>
     </entry>

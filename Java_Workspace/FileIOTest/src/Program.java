@@ -33,7 +33,7 @@ public class Program {
 
             PrintWriter outputStream = null;
             try{
-                outputStream= new PrintWriter(new FileOutputStream(filename));
+                outputStream = new PrintWriter(new FileOutputStream(filename));
             }catch (FileNotFoundException e){
                 System.out.println("File opening err" + filename);
                 System.exit(0);

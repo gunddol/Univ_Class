@@ -1,7 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="157a68c7-d8c4-4c94-b1a4-b1c38c67474c" name="Default Changelist" comment="" />
+    <list default="true" id="157a68c7-d8c4-4c94-b1a4-b1c38c67474c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ExamTEST/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebClient/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WebServer/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExceptionTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ExceptionTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIOTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIOTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FileIOTest/src/Program.java" beforeDir="false" afterPath="$PROJECT_DIR$/../FileIOTest/src/Program.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../IOtest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../IOtest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritanceTest2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InheritenceTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PolymorphismTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../UDPchat/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/out/production/WebClient/WebClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebClient/src/WebClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/../WebClient/src/WebClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../WebServer/out/production/WebServer/HttpRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../새 텍스트 문서.txt" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +45,11 @@
     <session id="-1036074331">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="2" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -61,8 +79,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+            <state relative-caret-position="255">
+              <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -75,6 +93,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -94,6 +115,7 @@
     <option name="width" value="974" />
     <option name="height" value="1047" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -161,17 +183,18 @@
       <workItem from="1539851735588" duration="1000" />
       <workItem from="1539851751113" duration="972000" />
       <workItem from="1539939540020" duration="67000" />
+      <workItem from="1544691746084" duration="241000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1040000" />
+    <option name="totallyTimeSpent" value="1281000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1621912" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -210,8 +233,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/InsertionSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="26" lean-forward="true" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+        <state relative-caret-position="255">
+          <caret line="15" column="32" lean-forward="true" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
         </state>
       </provider>
     </entry>
